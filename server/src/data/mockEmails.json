@@ -1,0 +1,97 @@
+[
+    {
+        "sender": "hr@company.com",
+        "subject": "Revised Leave Policy Effective Next Month",
+        "body": "Hello Team,\n\nWe have updated the company leave policy which will be effective from next month.\nPlease review the document shared on the HR portal carefully.\nIn case of any questions or clarifications, feel free to reach out to the HR team.\nThank you for your cooperation."
+    },
+    {
+        "sender": "hr@company.com",
+        "subject": "Mandatory Compliance Training Reminder",
+        "body": "Dear Employees,\n\nThis is a reminder to complete the mandatory compliance training.\nThe training must be completed before the end of this week.\nNon-completion may result in restricted system access.\nThank you for your prompt attention."
+    },
+    {
+        "sender": "hr@company.com",
+        "subject": "Annual Performance Review Cycle",
+        "body": "Hello Everyone,\n\nThe annual performance review cycle will begin next week.\nPlease ensure your self-assessment is completed on time.\nManagers will schedule review discussions accordingly.\nBest wishes for a successful review process."
+    },
+    {
+        "sender": "billing@vendor.com",
+        "subject": "Invoice INV-2025-021 Submission",
+        "body": "Hello,\n\nPlease find attached the invoice for services provided during January.\nThe payment due date is mentioned on the invoice.\nLet us know if you need any additional documentation.\nThank you for your continued business."
+    },
+    {
+        "sender": "accounts@serviceprovider.com",
+        "subject": "Outstanding Invoice Payment Reminder",
+        "body": "Dear Accounts Team,\n\nThis email is a reminder regarding the pending invoice.\nThe payment was due earlier this month.\nKindly process the payment at the earliest.\nPlease confirm once completed."
+    },
+    {
+        "sender": "finance@cloudvendor.com",
+        "subject": "Monthly Subscription Invoice",
+        "body": "Hi,\n\nAttached is the monthly invoice for cloud infrastructure usage.\nPlease review the charges in detail.\nThe payment deadline is mentioned in the document.\nReach out if there are any discrepancies."
+    },
+    {
+        "sender": "support@client.com",
+        "subject": "Unable to Access Application Dashboard",
+        "body": "Hello Support Team,\n\nWe are unable to access the application dashboard since morning.\nMultiple users are facing the same issue.\nThis is impacting our daily operations.\nPlease investigate and resolve urgently."
+    },
+    {
+        "sender": "ithelpdesk@company.com",
+        "subject": "Email Service Not Syncing",
+        "body": "Hi Team,\n\nMy official email is not syncing on mobile and desktop.\nI have tried restarting and reconfiguring the account.\nThe issue still persists.\nPlease assist at the earliest."
+    },
+    {
+        "sender": "alerts@system.com",
+        "subject": "Critical Error During Checkout Process",
+        "body": "Dear Team,\n\nSeveral users are reporting errors during checkout.\nTransactions are failing intermittently.\nThis issue requires immediate attention.\nPlease update once resolved."
+    },
+    {
+        "sender": "manager@company.com",
+        "subject": "Project Kickoff Meeting Invitation",
+        "body": "Hello Team,\n\nWe will be conducting a project kickoff meeting tomorrow.\nThe meeting will cover scope, timelines, and responsibilities.\nPlease review the shared documents beforehand.\nYour participation is important."
+    },
+    {
+        "sender": "calendar@company.com",
+        "subject": "Sprint Planning Meeting Reminder",
+        "body": "Hi Everyone,\n\nThis is a reminder for the upcoming sprint planning meeting.\nPlease come prepared with your task estimates.\nThe meeting link is available in the calendar invite.\nSee you all there."
+    },
+    {
+        "sender": "lead@company.com",
+        "subject": "Client Review Meeting Schedule",
+        "body": "Dear Team,\n\nA client review meeting is scheduled for Friday afternoon.\nWe will discuss progress and next milestones.\nPlease ensure all deliverables are up to date.\nJoin the meeting on time."
+    },
+    {
+        "sender": "events@community.com",
+        "subject": "Invitation to Tech Networking Event",
+        "body": "Hello,\n\nYou are invited to attend a tech networking event this weekend.\nIndustry experts will be sharing their insights.\nIt will be a great opportunity to connect with peers.\nLet us know if you plan to attend."
+    },
+    {
+        "sender": "newsletter@travel.com",
+        "subject": "Exclusive Holiday Packages Just for You",
+        "body": "Hi There,\n\nExplore our latest holiday packages with exclusive discounts.\nOffers are available for a limited time only.\nDestinations include beaches, mountains, and cities.\nBook now to save more."
+    },
+    {
+        "sender": "manager@company.com",
+        "subject": "Weekly Team Sync-Up",
+        "body": "Hello Team,\n\nOur weekly sync-up meeting is scheduled for Wednesday.\nPlease prepare a brief update on your current tasks.\nWe will also discuss any blockers.\nLooking forward to the discussion."
+    },
+    {
+        "sender": "accounts@vendor.com",
+        "subject": "Request for Advance Payment",
+        "body": "Dear Sir/Madam,\n\nAs per our agreement, we are requesting an advance payment.\nThis will help us initiate the next phase of work.\nThe amount and details are attached.\nThank you for your cooperation."
+    },
+    {
+        "sender": "support@partner.com",
+        "subject": "API Integration Issue Observed",
+        "body": "Hello Team,\n\nWe are facing intermittent issues with the API integration.\nSome requests are timing out unexpectedly.\nThis is affecting data synchronization.\nPlease advise on next steps."
+    },
+    {
+        "sender": "hr@company.com",
+        "subject": "Employee Engagement Survey",
+        "body": "Dear Colleagues,\n\nWe invite you to participate in the employee engagement survey.\nYour feedback is valuable to us.\nThe survey will take only a few minutes.\nThank you for your time and honesty."
+    },
+    {
+        "sender": "billing@softwarevendor.com",
+        "subject": "Revised Invoice Notification",
+        "body": "Hello,\n\nA revised invoice has been generated due to updated usage.\nPlease disregard the earlier invoice.\nThe corrected version is attached for your reference.\nLet us know if you have any questions."
+    }
+]
